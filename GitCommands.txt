@@ -1,0 +1,16 @@
+cd c:..: Go to a folder (paste).
+git init: Initialise the use of Git folder.
+git status: Status from Git. What's in your folder? 
+git add <name-of-file>: Add file to source control.
+git add <file1> <file2>: Add multiple files to git. Also used to update changed files
+git commit m- "comment": Commit to Git with a comment.
+git log: See log info about your files.
+git remote add origin https://github.com/DDSoftDennie/Foo.git: Connect to a GitHub project. Here Foo.git
+git push -u origin master: Push git files to hosted repo.
+git fetch
+git merge origin/master: Merge online and offline repo.
+
+
+
+
+
